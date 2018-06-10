@@ -4,6 +4,5 @@ class Song
   def song(title)
     song = Song.new
     @title = title
-
   end
 end
