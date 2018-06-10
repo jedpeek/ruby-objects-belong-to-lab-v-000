@@ -3,6 +3,7 @@ class Song
 
   def song(song)
     song = Song.new
+    @title = title
 
   end
 end
